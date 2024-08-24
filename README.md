@@ -1,5 +1,5 @@
 <h3 align="center">I am Zakaria Zoulati. A software engineer in the making.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AnasImloul&label=Profile%20views&color=0e75b6&style=flat" alt="Anas Imloul" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zakaria-zoulati&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-zoulati" /> </p>
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
@@ -27,15 +27,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/AnasImloul">
-  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasImloul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasImloul&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/zakaria-zoulati">
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakaria-zoulati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakaria-zoulati&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
