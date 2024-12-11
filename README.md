@@ -9,6 +9,6 @@
     <h3>Github stats</h3>
   </summary>
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zougari47&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zougari47&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zakaria-zoulati&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-zoulati&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 </details>
