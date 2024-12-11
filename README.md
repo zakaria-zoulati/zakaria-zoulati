@@ -3,3 +3,12 @@
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
+
+<details>
+  <summary>
+    <h3>Github stats</h3>
+  </summary>
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zougari47&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zougari47&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+</details>
