@@ -10,5 +10,5 @@
   </summary>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zakaria-zoulati&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-zoulati&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-zoulati&layout=compact&theme=blueberry&count_private=true&hide_border=true&width=100%)
 </details>
