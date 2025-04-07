@@ -26,6 +26,13 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br><br>
