@@ -34,10 +34,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5&logoColor=25A162)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
 ![Metabase](https://img.shields.io/badge/-Metabase-05122A?style=flat&logo=metabase&logoColor=1C87C9)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Picocli](https://img.shields.io/badge/-Picocli-05122A?style=flat&logo=picocli&logoColor=F0131E)
+
 
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
