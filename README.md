@@ -43,4 +43,18 @@
 
 <br><br>
 
+<br><br>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/zakaria-zoulati">
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakaria-zoulati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakaria-zoulati&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![](https://hit.yhype.me/github/profile?user_id=76872415)
+
+
+
 
