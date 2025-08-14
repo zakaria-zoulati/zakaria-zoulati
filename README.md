@@ -53,12 +53,9 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=76872415)
 
-## 📈 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/zzzz9?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/zzzz9/)
 
----
 
 ## 📊 Contest Ranking & Progress
-![LeetCode Graph](https://leetcard.jacoblin.cool/zzzz9?ext=heatmap&theme=dark)
+![LeetCode Graph](https://leetcard.jacoblin.cool/zzzz9?ext=contest&theme=dark)
 
 
