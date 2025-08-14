@@ -58,3 +58,7 @@
 
 ---
 
+## 📊 Contest Ranking & Progress
+![LeetCode Graph](https://leetcard.jacoblin.cool/zzzz9?ext=heatmap&theme=dark)
+
+
