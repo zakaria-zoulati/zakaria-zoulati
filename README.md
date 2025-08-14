@@ -52,3 +52,9 @@
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=76872415)
+
+## 📈 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/zzzz9?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/zzzz9/)
+
+---
+
