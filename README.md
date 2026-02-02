@@ -17,11 +17,26 @@
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
-<h3 align="left">👨🏻‍💻  About Me</h3>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
  💡  I enjoy learning about new technologies and creating software solutions and quick hacks.<br>
 🎓  I am currently pursuing a degree in software engineering at Morocco's National Institute of Posts and Telecommunications in Rabat.<br>
 ✍️  In my spare time, I am very interested in competitive programming and problem solving.<br>
+
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr>
+</table>
+
+
+
+
 
 
 <br><br>
