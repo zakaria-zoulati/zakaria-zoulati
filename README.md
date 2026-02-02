@@ -1,1 +1,59 @@
-<div align="center"> # Hi there, I'm Zakaria Zoulati 👋 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zoulati_za88932) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-zoulati) [![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ziko_Zoulati) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zzzz9) [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ziko_zoulati) [![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=02b875)](https://medium.com/@zoulatizakaria3) </div> <p align="center"> <img src="https://komarev.com/ghpvc/?username=zakaria-zoulati&label=Profile%20views&color=0e75b6&style=flat" alt="Zakaria Zoulati" /> </p> ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png) ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me <table align="center"> <tr border="none"> <td width="50%" align="left"> 🎓 Software Engineering student at <b>INPT</b> (National Institute of Posts and Telecommunications), Rabat, Morocco.<br><br> 🧠 Actively practicing <b>competitive programming</b>, exploring <b>advanced data structures</b>, and strengthening algorithmic thinking.<br><br> 🔐 Currently diving into <b>cybersecurity</b>, learning how systems work under the hood—and how to secure them.<br><br> 🛠️ Love building <b>real projects from scratch</b> that push my skills and make me a stronger engineer.<br><br> 🚀 Curious by nature, always learning and turning ideas into working software. </td> <td width="50%" align="center" valign="top"> <img alt="Coding" width="360" style="margin-top: 16px;" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> </td> </tr> </table> <br><br> <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/> ### 🛠 &nbsp;Tech Stack ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\ ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00ADD8) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=junit5&logoColor=25A162) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791) ![Metabase](https://img.shields.io/badge/-Metabase-05122A?style=flat&logo=metabase&logoColor=1C87C9) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss&logoColor=38B2AC) <br><br> ### ⚙️ &nbsp;GitHub Analytics <p align="left"> <a href="https://github.com/zakaria-zoulati"> <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakaria-zoulati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakaria-zoulati&layout=compact&langs_count=8&theme=algolia"/> </a> </p> ![](https://hit.yhype.me/github/profile?user_id=76872415)
+<div align="center">
+
+# Hi there, I'm Zakaria Zoulati 👋
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zoulati_za88932)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-zoulati)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ziko_Zoulati)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zzzz9)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ziko_zoulati)
+[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=02b875)](https://medium.com/@zoulatizakaria3)
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zakaria-zoulati&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 👋 About Me
+
+I am a **Software Engineering student** at the **National Institute of Posts and Telecommunications (INPT), Rabat**, with a strong interest in **mathematics**, **algorithms**, and **competitive programming**.
+
+I actively practice **problem solving** and **competitive programming**, focusing on **advanced data structures**, **algorithmic thinking**, and writing efficient, clean code.
+
+I am currently exploring **cybersecurity**, learning how systems operate internally, how vulnerabilities arise, and how to design more secure software.
+
+I enjoy **building real-world projects from scratch**, as they help me deepen my understanding of software systems and grow as an engineer.
+
+I am naturally curious, highly motivated, and always eager to **learn new technologies** and **turn ideas into working software**.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- C++ · Python · Java · Go · Rust · TypeScript · JavaScript
+
+**Frameworks & Tools**
+- Spring Boot · Flask · Node.js · React  
+- Docker · Kubernetes · Git · GitHub · Postman
+
+**Databases**
+- PostgreSQL · MySQL · MongoDB
+
+---
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakaria-zoulati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em"
+       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakaria-zoulati&layout=compact&langs_count=8&theme=algolia" />
+</p>
+
+---
+
+![](https://hit.yhype.me/github/profile?user_id=76872415)
