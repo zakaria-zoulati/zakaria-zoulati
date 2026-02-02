@@ -38,15 +38,34 @@ I am naturally curious, disciplined, and driven by continuous improvement — le
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AnuragHazra/AnuragHazra/master/assets/code.gif" width="330px" align="right"/>
 
-### Languages
-- C++ · Python · Java · Go · Rust · TypeScript · JavaScript
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=8A2BE2)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8A2BE2)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=8A2BE2)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=8A2BE2)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=8A2BE2)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=8A2BE2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8A2BE2)
 
-### Frameworks & Tools
-- Spring Boot · Flask · Node.js · React  
-- Docker · Kubernetes · Git · GitHub · Postman
+---
 
-### Databases
-- PostgreSQL · MySQL · MongoDB
+### ⚙️ Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=8A2BE2)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=8A2BE2)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=8A2BE2)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8A2BE2)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=8A2BE2)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=8A2BE2)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=8A2BE2)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A2BE2)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=8A2BE2)
+
+---
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8A2BE2)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=8A2BE2)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=8A2BE2)
 
 <br><br>
 
