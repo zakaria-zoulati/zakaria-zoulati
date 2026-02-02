@@ -20,17 +20,20 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I am a **Software Engineering student** at the **National Institute of Posts and Telecommunications (INPT), Rabat**, with a strong passion for **mathematics**, **algorithms**, and **competitive programming**.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I actively practice **problem solving and competitive programming**, focusing on **advanced data structures**, **algorithmic thinking**, and writing efficient, reliable code.
+- Software Engineering student at the **National Institute of Posts and Telecommunications (INPT), Rabat**
+- Strong passion for **mathematics**, **algorithms**, and **competitive programming**
+- Actively practice **problem solving and competitive programming**
+- Focus on **advanced data structures**, **algorithmic thinking**, and writing efficient, reliable code
+- Currently diving into **cybersecurity**, exploring how systems work internally, how vulnerabilities emerge, and how to design more secure software
+- Love **building real-world projects from scratch** to grow technically and think deeper about system design
+- Naturally curious, disciplined, and driven by continuous improvement
+- Learning every day and pushing limits step by step
 
-I am currently diving into **cybersecurity**, exploring how systems work internally, how vulnerabilities emerge, and how to design more secure software.
-
-I love **building real-world projects from scratch**, as they help me grow technically and think deeper about system design.
-
-I am naturally curious, disciplined, and driven by continuous improvement — learning every day and pushing my limits step by step.
+<br clear="right"/>
 
 ---
 
