@@ -23,19 +23,21 @@
 <tr border="none">
 <td width="50%" align="left">
 
-💡 I love Mathematics, competitive programming, and constantly challenging myself with problem solving.
-🎓 I’m currently pursuing a Software Engineering degree at Morocco’s National Institute of Posts and Telecommunications (INPT), Rabat.
-🧠 I actively practice competitive programming, explore advanced data structures, and sharpen my algorithmic thinking.
-🔐 I’m currently diving into cybersecurity, learning how systems work under the hood and how to break (and secure) them.
-🛠️ I enjoy building real projects from scratch—tools and systems that actually help me grow and become a stronger engineer.
-🚀 I genuinely love learning new things and turning ideas into working software.
+💡 <b>Mathematics</b> enthusiast with a strong passion for <b>competitive programming</b> and problem solving.<br><br>
+🎓 Software Engineering student at <b>INPT</b> (National Institute of Posts and Telecommunications), Rabat, Morocco.<br><br>
+🧠 Actively practicing <b>competitive programming</b>, exploring <b>advanced data structures</b>, and strengthening algorithmic thinking.<br><br>
+🔐 Currently diving into <b>cybersecurity</b>, learning how systems work under the hood—and how to secure them.<br><br>
+🛠️ Love building <b>real projects from scratch</b> that push my skills and make me a stronger engineer.<br><br>
+🚀 Curious by nature, always learning and turning ideas into working software.
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img alt="Coding" width="450"
+       src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </td>
 </tr>
 </table>
+
 
 
 
