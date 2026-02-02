@@ -23,9 +23,12 @@
 <tr border="none">
 <td width="50%" align="left">
 
- 💡  I enjoy learning about new technologies and creating software solutions and quick hacks.<br>
-🎓  I am currently pursuing a degree in software engineering at Morocco's National Institute of Posts and Telecommunications in Rabat.<br>
-✍️  In my spare time, I am very interested in competitive programming and problem solving.<br>
+💡 I love Mathematics, competitive programming, and constantly challenging myself with problem solving.
+🎓 I’m currently pursuing a Software Engineering degree at Morocco’s National Institute of Posts and Telecommunications (INPT), Rabat.
+🧠 I actively practice competitive programming, explore advanced data structures, and sharpen my algorithmic thinking.
+🔐 I’m currently diving into cybersecurity, learning how systems work under the hood and how to break (and secure) them.
+🛠️ I enjoy building real projects from scratch—tools and systems that actually help me grow and become a stronger engineer.
+🚀 I genuinely love learning new things and turning ideas into working software.
 
 </td>
 <td width="50%" align="center">
