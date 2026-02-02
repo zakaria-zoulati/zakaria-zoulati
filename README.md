@@ -22,8 +22,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-
-💡 <b>Mathematics</b> enthusiast with a strong passion for <b>competitive programming</b> and problem solving.<br><br>
 🎓 Software Engineering student at <b>INPT</b> (National Institute of Posts and Telecommunications), Rabat, Morocco.<br><br>
 🧠 Actively practicing <b>competitive programming</b>, exploring <b>advanced data structures</b>, and strengthening algorithmic thinking.<br><br>
 🔐 Currently diving into <b>cybersecurity</b>, learning how systems work under the hood—and how to secure them.<br><br>
