@@ -28,11 +28,14 @@
 🛠️ Love building <b>real projects from scratch</b> that push my skills and make me a stronger engineer.<br><br>
 🚀 Curious by nature, always learning and turning ideas into working software.
 
+
+
 </td>
-<td width="50%" align="center">
-  <img alt="Coding" width="450"
+<td width="50%" align="center" valign="top">
+  <img alt="Coding" width="360" style="margin-top: 16px;"
        src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </td>
+
 </tr>
 </table>
 
