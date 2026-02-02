@@ -49,12 +49,6 @@
 
 <br clear="right"/>
 
-<br clear="right"/>
-
-<br clear="right"/>
-
-<br clear="right"/>
-
 ---
 
 ## 🛠 Tech Stack
