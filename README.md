@@ -22,7 +22,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="margin-left: 20px;">
 
 - Software Engineering student at the **National Institute of Posts and Telecommunications (INPT), Rabat**
 - Strong passion for **mathematics**, **algorithms**, and **competitive programming**
@@ -32,6 +32,8 @@
 - Love **building real-world projects from scratch** to grow technically and think deeper about system design
 - Naturally curious, disciplined, and driven by continuous improvement
 - Learning every day and pushing limits step by step
+
+<br clear="right"/>
 
 <br clear="right"/>
 
